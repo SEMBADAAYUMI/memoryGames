@@ -1,0 +1,8 @@
+body {
+    background-color: whitesmoke;
+}
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 3px;
+}
